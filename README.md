@@ -1,1 +1,3 @@
 # slides
+
+[test](test.html)
